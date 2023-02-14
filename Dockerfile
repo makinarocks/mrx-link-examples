@@ -1,4 +1,4 @@
-FROM ghcr.io/makinarocks/mrx-link:0.10.4-python3.9
+FROM ghcr.io/makinarocks/mrx-link:0.10.5-python3.9
 
 USER root
 
