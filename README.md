@@ -1,1 +1,1 @@
-# mrx-link-binder
+# [Link™](https://link.makinarocks.ai/) on Binder
