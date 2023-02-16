@@ -1,6 +1,6 @@
 # [Link™](https://link.makinarocks.ai/) on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Link_Intro.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=Link_Intro.ipynb)
 
 ## Examples with Link Pipelines
 

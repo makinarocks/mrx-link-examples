@@ -15,6 +15,7 @@ RUN python3 -m pip install \
     livelossplot && \
     rm -fr "$(python3 -m pip cache dir)"
 
+COPY Link_Intro.ipynb "${HOME}/workspace/Link_Intro.ipynb"
 COPY sample-notebooks/*.ipynb "${HOME}/workspace/sample-notebooks/"
 RUN chown -R "${NB_UID}:${NB_GID}" "${HOME}/workspace" && \
     fix-permissions "${HOME}/workspace"
