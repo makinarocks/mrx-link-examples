@@ -14,11 +14,9 @@
 
 - [MNIST Image Generation with VAE](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/MNIST_Generation_with_VAE.ipynb)
 
-- [Sequence Classification](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Spiral_Classification.ipynb)
-
 - [Spiral-Distributed Data Classification](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Spiral_Classification.ipynb)
 
-- [Sequence Classification](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Text_Classification_with_RNN.ipynb)
+- [Sequential Data Classification](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Text_Classification_with_RNN.ipynb)
 
 - [Titanic Data EDA and Modeling](https://mybinder.org/v2/gh/makinarocks/mrx-link-binder/main?labpath=sample-notebooks/Titanic_EDA_and_Modeling.ipynb)
 
